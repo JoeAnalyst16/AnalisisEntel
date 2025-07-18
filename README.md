@@ -389,7 +389,7 @@
           <a href="mailto:@gruponorte.cl" class="contact-email">@gruponorte.cl</a>
         </div>
         <div class="contact-card">
-            <div class="contact-name">Ximena</div>
+            <div class="contact-name">Ximena Moya</div>
             <div class="contact-position">KAM</div>
             <a href="mailto:ximena.moya@gruponorte.cl" class="contact-email">ximena.moya@gruponorte.cl</a>
           </div>
